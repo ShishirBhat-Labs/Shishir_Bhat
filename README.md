@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gladiator-01
-- 👀 I’m interested in ...Web development
+- 👀 I’m interested in ...Python and C
 - 🌱 I’m currently learning ...the same.
 
 <!---
