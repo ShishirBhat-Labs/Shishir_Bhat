@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gladiator-01
+- 👋 Hi, I’m @Shishir
 - 👀 I’m interested in ...Data science
 - 🌱 I’m currently learning ...the same.
 
