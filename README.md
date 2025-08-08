@@ -7,38 +7,38 @@
 
 ## 🏎 From Gears to Graphs
 
-**Engineer → Robotics Specialist → Autonomous Vehicles → Data Science**  
+**Mechanical Engineer → Mechatronics Specialist → Autonomous Vehicles → Data Science**  
 
-💡 Started in **Mechanical Engineering**, moved into **Industrial Automation & Robotics** 
+💡 With **2+ years of industry experience**, I’ve gone from designing and testing complex mechanical and electronics systems to analyzing large-scale engineering data.  
 
-and worked on **Data driven Driver Ergonomics**,  and **autonomous vehicle systems** at **Daimler Trucks**,  
-and now building projects that blend **engineering intuition** with **data science precision**.
+I hold an **M.Tech in Industrial Automation & Robotics**, have worked on **data-driven driver ergonomics** at Volvo, and delivered **Level 4 autonomous vehicle validation** at Daimler Trucks.  
+
+Now, I’m creating projects that blend **engineering intuition** with **data science precision**.
 
 ---
 
-## 🛠 What I’ve Built (So Far)
+## 🛠 Career Highlights
 
-- 🚚 **Level 4 Autonomous Truck Systems** – Data-driven validation, anomaly detection, and safety analysis in HIL environments.  
-- 🎥 **Computer Vision Solutions** – Tunnel detection, rollover prevention, and cross-traffic assist (**2 patents filed**).  
-- 📊 **Data Analytics Projects** – From **Samsung watch sleep studies** to **aftersales product trend analysis**.  
-- 🏭 **Industrial Ergonomics AI** – 3D markerless body tracking system for ergonomic safety compliance on the assembly line.
+- 🚚 **Level 4 Autonomous Truck Systems** – Automated CANoe signal data extraction, anomaly detection, and validation metrics design for safety-critical HIL testing.  
+- 🎥 **Computer Vision Innovations** – Tunnel detection, rollover prevention, and cross-traffic assist (**1 patents filed**).  
+- 🏭 **Industrial Ergonomics AI** – Markerless 3D body tracking for posture analysis and workplace safety compliance on assembly lines.
 
 ---
 
 ## 🧰 Tech Toolbox
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  
 </p>
 
 ---
-
 
 ## 🌏 Connect With Me
 
@@ -51,9 +51,10 @@ and now building projects that blend **engineering intuition** with **data scien
 ---
 
 <p align="center">
-  <i>"From developing machines that think for themselves to building models that learn for themselves —  
-  this is the journey from <b>horsepower</b> to <b>compute power</b>."</i>
+  <i>"From engineering machines that think for themselves to crafting models that learn for themselves —  
+  this is my journey from <b>horsepower</b> to <b>compute power</b>."</i>
 </p>
+
 
 <!-- Footer Banner -->
 <p align="center">
