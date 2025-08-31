@@ -139,6 +139,28 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
+## 🚀 **Portfolio Showcase**
+
+<div align="center">
+  
+### 🗂️ **Explore My Data Science Journey**
+
+<a href="https://github.com/ShishirBhat-Labs/Portfolio">
+  <img src="https://img.shields.io/badge/📊_View_Complete_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=2196F3" height="50"/>
+</a>
+
+<br><br>
+
+*Discover my projects spanning personal data insights, industrial ergonomics,<br>
+and comprehensive case study implementations*
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+
 ## 🏢 **Professional Journey**
 
 <div align="center">
@@ -186,26 +208,7 @@
 
 
 
-## 🚀 **Portfolio Showcase**
 
-<div align="center">
-  
-### 🗂️ **Explore My Data Science Journey**
-
-<a href="https://github.com/ShishirBhat-Labs/Portfolio">
-  <img src="https://img.shields.io/badge/📊_View_Complete_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=2196F3" height="50"/>
-</a>
-
-<br><br>
-
-*Discover my projects spanning autonomous vehicle analytics, industrial ergonomics,<br>
-personal data insights, and comprehensive case study implementations*
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
 
 
 ## 📈 **GitHub Analytics**
