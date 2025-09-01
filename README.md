@@ -45,9 +45,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
 
 
@@ -135,9 +133,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
 ## 🚀 **Portfolio Showcase**
 
@@ -156,9 +152,7 @@ and comprehensive case study implementations*
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
 
 ## 🏢 **Professional Journey**
@@ -202,9 +196,7 @@ and comprehensive case study implementations*
 - 📐 **Automated Risk Analysis**: RULA/REBA score calculation for workplace safety compliance
 - 🔄 **Digital Twin Mapping**: Real-time posture monitoring with 3D visualization
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
 
 
@@ -222,9 +214,7 @@ and comprehensive case study implementations*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShishirBhat-Labs&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+---
 
 
 ## 🌐 **Connect & Collaborate**
@@ -255,7 +245,10 @@ and comprehensive case study implementations*
 </div>
 
 
+
+
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=120&section=footer&animation=twinkling"/>
 </p>
+
