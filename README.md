@@ -199,24 +199,6 @@ and comprehensive case study implementations*
 ---
 
 
-
-
-
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShishirBhat-Labs&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirBhat-Labs&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShishirBhat-Labs&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-</div>
-
----
-
-
 ## 🌐 **Connect & Collaborate**
 
 <div align="center">
