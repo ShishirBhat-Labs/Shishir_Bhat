@@ -1,55 +1,39 @@
 <!-- Header with Animated Typing Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=200&section=header&text=Shishir%20Bhat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Engineering%20|%20Data%20Science%20|%20Innovation&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,25,17&height=200&section=header&text=Shishir%20Bhat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Data+Science;Problem+Solving;Insights;Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=Data+Analyst;Automotive+Systems;Statistical+Modeling;ADAS+Analytics" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-
-## 🌟 About Me
-
-<div align="left">
-  
-<h1 align="center">
-🚀 Transforming Engineering Excellence into Data Intelligence
-</h1>
-
-
-<p align="center">
- <img src="https://img.shields.io/badge/🏢_Current_Role-Software_Validation_Engineer-2196F3?style=for-the-badge&labelColor=0D1117" />
- <img src="https://img.shields.io/badge/🎯_Focus-Level_4_Autonomous_Vehicles-4CAF50?style=for-the-badge&labelColor=0D1117" />
- <img src="https://img.shields.io/badge/📚_Learning-Advanced_Data_Science-FF6B35?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🏢_Current role-Data_Analyst-2196F3?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯_Specialization-Automotive_ADAS-4CAF50?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📚_Advancing-Data_Science-FF6B35?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <br>
 
-🔬 **Currently pioneering autonomous vehicle validation** at Daimler Truck Innovation Centre, where I blend **engineering precision** with **data science methodologies** to ensure safety-critical performance of Level 4 autonomous systems.
+<div align="center">
+  <h2> 👨‍💻 About Me </h2>
+</div>
 
-💡 **Passionate about bridging the physical and digital worlds** — from developing computer vision solutions that enhance vehicle safety to extracting actionable insights from complex sensor and business data.
+**Data Analyst specializing in automotive systems** with 2+ years of experience in autonomous vehicle data analysis and validation. Currently advancing skills through Advanced Data Science certification from Scaler.
 
-🎯 **Innovation-driven mindset** with patent-level contributions in tunnel detection, predictive stability control, and cross-traffic safety systems.
+🔬 **Professional Focus:** Transforming complex sensor data into actionable insights for safety-critical ADAS systems at Daimler Truck Innovation Centre
+
+💡 **Core Expertise:** Statistical analysis of multi-modal automotive datasets, automated data pipeline development, and performance analytics for Level 4 autonomous vehicles
+
+🎯 **Innovation Impact:** Driving data-driven innovations from concept to patent stage, with filed patents in computer vision and predictive vehicle dynamics
+
 
 <br>
 
-<p align="center">
- <img src="https://img.shields.io/badge/💼_Experience-2+_Years_Industry-success?style=flat-square&logo=briefcase&logoColor=white" />
- <img src="https://img.shields.io/badge/🏆_Patents-1_Filed-important?style=flat-square&logo=award&logoColor=white" />
- <img src="https://img.shields.io/badge/🌍_Location-Bengaluru,_India-informational?style=flat-square&logo=map-pin&logoColor=white" />
-</p>
-
+<div align="center">
+  <h2> 🧠 Skills & Expertise </h2>
 </div>
-
----
-
-
-
-## 🧠 **Skills & Expertise**
 
 <div align="center">
 
@@ -133,9 +117,11 @@
 
 </div>
 
----
+<br>
 
-## 🚀 **Portfolio Showcase**
+<div align="center">
+  <h2> 🚀 Portfolio Showcase </h2>
+</div>
 
 <div align="center">
   
@@ -145,61 +131,60 @@
   <img src="https://img.shields.io/badge/📊_View_Complete_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=2196F3" height="50"/>
 </a>
 
-<br><br>
+<br>
 
 *Discover my projects spanning personal data insights, industrial ergonomics,<br>
 and comprehensive case study implementations*
-
 </div>
 
----
-
-
-## 🏢 **Professional Journey**
+<br>
 
 <div align="center">
-
-### 🚛 **Daimler Truck Innovation Centre** | *Aug 2023 - Present*
-**Software Validation Engineer - Autonomous Technologies**
-
-<img src="https://img.shields.io/badge/Automation-50%25_Efficiency_Boost-success?style=flat-square&logo=target&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Processing-30%25_Time_Reduction-informational?style=flat-square&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Patents-2_Filed-important?style=flat-square&logo=lightbulb&logoColor=white" />
-
+  <h2> 🏢 Professional Experience </h2>
 </div>
 
-**🔥 Key Achievements:**
-- 🎯 **Test Automation Mastery**: Built Python-based automated test suites in Automation Desk & Control Desk
-- 📊 **Signal Data Intelligence**: Engineered pandas-powered CANoe data extraction with advanced anomaly detection
-- 🤝 **Global Collaboration**: Led cross-functional validation with North America teams for safety-critical systems
-- 🎯 **Multiple Awards**: Received multiple awards for work excellence and hosting Deptartment level events
+### 🚛 **Data Analyst** | Daimler Truck Innovation Centre
+*Aug 2023 - Present | Bengaluru, India*
 
-**💡 Innovation Breakthroughs:**
-- 🌟 **AI-Powered Tunnel Detection**: Classical CV solution for automatic headlamp activation
-- ⚡ **Predictive Rollover Prevention**: Data-driven stability system using GPS & load cell analytics  
-- 🔍 **ML Cross-Traffic Safety**: Dual approach (classical CV + ML) for intersection vehicle detection
+**Autonomous Technologies Group - ADAS Data Analytics**
 
-<div align="center">
+🎯 **Key Responsibilities:**
+- **Multi-Modal Sensor Analytics:** Process terabytes of automotive sensor data (LiDAR, camera, radar, CAN bus) using Python pipelines
+- **Statistical Validation:** Ensure 99.7% accuracy requirements for safety-critical autonomous vehicle systems
+- **Performance Intelligence:** Build KPI dashboards and statistical models for Level 4 autonomous truck validation
+- **Cross-Functional Collaboration:** Work with engineering teams across US and India markets
 
----
+📊 **Impact Delivered:**
+- 30% reduction in manual validation effort through automated data pipelines
+- 40% improvement in rollover risk prediction accuracy
+- 95% tunnel detection accuracy for automated safety systems
 
-### 🏭 **Volvo Group Trucks Technology** | *Jul 2022 - Jul 2023*  
-**Post Graduate Project Intern - Driving & Ergonomics**
+🏆 **Innovation Projects:**
+- **Computer Vision Tunnel Detection** - Patent Filed
+- **Predictive Vehicle Dynamics** - Patent Filed  
+- **ML-Based Intersection Safety** - 92% detection accuracy
 
-<img src="https://img.shields.io/badge/Computer_Vision-3D_Body_Tracking-blue?style=flat-square&logo=eye&logoColor=white" />
-<img src="https://img.shields.io/badge/Ergonomics-RULA/REBA_Assessment-green?style=flat-square&logo=accessibility&logoColor=white" />
+<br>
 
-</div>
+### 🏭 **Intern** | Volvo Group Trucks Technology
+*Jul 2022 - Jul 2023 | Bengaluru, India*
 
 **🔬 Research Impact:**
+
 - 🎥 **Markerless Motion Capture**: Developed CV-based ergonomic assessment for assembly workers
 - 📐 **Automated Risk Analysis**: RULA/REBA score calculation for workplace safety compliance
 - 🔄 **Digital Twin Mapping**: Real-time posture monitoring with 3D visualization
 
----
+
+<br>
 
 
-## 🌐 **Connect & Collaborate**
+<br>
+
+<div align="center">
+  <h2> 🌐 Connect & Collaborate </h2>
+</div>
+
 
 <div align="center">
 
