@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=Data+Analyst;Automotive+Systems;Statistical+Modeling;ADAS+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=Data+Analyst;Statistical+Modeling;ADAS+Analytics" alt="Typing SVG" />
 </div>
 
 <p align="center">
