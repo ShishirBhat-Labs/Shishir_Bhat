@@ -32,6 +32,26 @@
 <br>
 
 <div align="center">
+  <h2> 🚀 Portfolio Showcase </h2>
+</div>
+
+<div align="center">
+  
+### 🗂️ **Explore My Data Science Journey**
+
+<a href="https://github.com/ShishirBhat-Labs/Portfolio">
+  <img src="https://img.shields.io/badge/📊_View_Complete_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=2196F3" height="50"/>
+</a>
+
+<br>
+
+*Discover my projects spanning personal data insights, industrial ergonomics,<br>
+and comprehensive case study implementations*
+</div>
+
+<br>
+
+<div align="center">
   <h2> 🧠 Skills & Expertise </h2>
 </div>
 
@@ -119,25 +139,7 @@
 
 <br>
 
-<div align="center">
-  <h2> 🚀 Portfolio Showcase </h2>
-</div>
 
-<div align="center">
-  
-### 🗂️ **Explore My Data Science Journey**
-
-<a href="https://github.com/ShishirBhat-Labs/Portfolio">
-  <img src="https://img.shields.io/badge/📊_View_Complete_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=2196F3" height="50"/>
-</a>
-
-<br>
-
-*Discover my projects spanning personal data insights, industrial ergonomics,<br>
-and comprehensive case study implementations*
-</div>
-
-<br>
 
 <div align="center">
   <h2> 🏢 Professional Experience </h2>
