@@ -39,6 +39,7 @@
   
 ### 🗂️ **Explore My Data Science Journey**
 
+<br>
 <a href="https://github.com/ShishirBhat-Labs/Portfolio">
   <img src="https://img.shields.io/badge/📊_View_Complete_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=4CAF50&color=2196F3" height="50"/>
 </a>
@@ -59,52 +60,40 @@ and comprehensive case study implementations*
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/🐍-Programming-4CAF50?style=for-the-badge&labelColor=0D1117" />
 <br><br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
-<br>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/NumPy-777BB4?style=flat-square&logo=numpy&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" />
+• Python<br>
+• SQL<br>
+• NumPy<br>
+• Pandas
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/📊-Data_Analysis-2196F3?style=for-the-badge&labelColor=0D1117" />
 <br><br>
-<img src="https://img.shields.io/badge/EDA-Exploratory_Analysis-success?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Data_Cleaning-Quality_Assurance-informational?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Hypothesis_Testing-Statistical_Inference-important?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/A/B_Testing-Experiment_Design-blueviolet?style=flat-square" />
+• Exploratory Data Analysis<br>
+• Data Cleaning & Quality Assurance<br>
+• Hypothesis Testing<br>
+• A/B Testing & Experiment Design
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/🤖-Machine_Learning-FF6B35?style=for-the-badge&labelColor=0D1117" />
 <br><br>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Linear_Regression-Gradient_Descent-orange?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Feature_Engineering-Data_Preprocessing-yellowgreen?style=flat-square" />
+• Scikit-Learn<br>
+• OpenCV<br>
+• Linear & Logistic Regression<br>
+• Feature Engineering
 </td>
 
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <img src="https://img.shields.io/badge/📈-Visualization-9C27B0?style=for-the-badge&labelColor=0D1117" />
 <br><br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Product_Analytics-KPI_Analysis-lightblue?style=flat-square" />
+• Tableau<br>
+• Excel<br>
+• Seaborn<br>
+• KPI Analysis & Product Analytics
 </td>
 </tr>
 </table>
@@ -113,24 +102,20 @@ and comprehensive case study implementations*
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 <img src="https://img.shields.io/badge/🗄️-Database_&_Querying-607D8B?style=for-the-badge&labelColor=0D1117" />
 <br><br>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/SQL_Joins-Advanced_Queries-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Window_Functions-Data_Aggregation-green?style=flat-square" />
+• MySQL & BigQuery<br>
+• Advanced SQL Joins<br>
+• Window Functions & Data Aggregation
 </td>
 
-<td align="center" width="50%">
+<td align="center" valign="top" width="50%">
 <img src="https://img.shields.io/badge/📐-Mathematical_Foundation-E91E63?style=for-the-badge&labelColor=0D1117" />
 <br><br>
-<img src="https://img.shields.io/badge/Statistics-Probability_Theory-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Math_for_ML-Optimization-purple?style=flat-square" />
-<br>
-<img src="https://img.shields.io/badge/Statistical_Inference-Analytical_Thinking-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Logistic_Regression-Classification-teal?style=flat-square" />
+• Statistics & Probability Theory<br>
+• Mathematical Optimization for ML<br>
+• Statistical Inference & Analytical Thinking
 </td>
 </tr>
 </table>
