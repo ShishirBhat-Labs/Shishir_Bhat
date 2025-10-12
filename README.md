@@ -20,11 +20,9 @@
   <h2> 👨‍💻 About Me </h2>
 </div>
 
-**Data Analyst specializing in automotive systems** with 2+ years of experience in autonomous vehicle data analysis and validation. Currently advancing skills through Advanced Data Science certification from Scaler.
+**Software Validation Engineer** with 2+ years of experience in autonomous vehicle data analysis and validation. Currently advancing skills in Advanced Data Science.
 
 🔬 **Professional Focus:** Transforming complex sensor data into actionable insights for safety-critical ADAS systems at Daimler Truck Innovation Centre
-
-💡 **Core Expertise:** Statistical analysis of multi-modal automotive datasets, automated data pipeline development, and performance analytics for Level 4 autonomous vehicles
 
 🎯 **Innovation Impact:** Driving data-driven innovations from concept to patent stage, with filed patents in computer vision and predictive vehicle dynamics
 
@@ -121,47 +119,6 @@ and comprehensive case study implementations*
 </table>
 
 </div>
-
-<br>
-
-
-
-<div align="center">
-  <h2> 🏢 Professional Experience </h2>
-</div>
-
-### 🚛 **Data Analyst** | Daimler Truck Innovation Centre
-*Aug 2023 - Present | Bengaluru, India*
-
-**Autonomous Technologies Group - ADAS Data Analytics**
-
-🎯 **Key Responsibilities:**
-- **Multi-Modal Sensor Analytics:** Process terabytes of automotive sensor data (LiDAR, camera, radar, CAN bus) using Python pipelines
-- **Statistical Validation:** Ensure 99.7% accuracy requirements for safety-critical autonomous vehicle systems
-- **Performance Intelligence:** Build KPI dashboards and statistical models for Level 4 autonomous truck validation
-- **Cross-Functional Collaboration:** Work with engineering teams across US and India markets
-
-📊 **Impact Delivered:**
-- 30% reduction in manual validation effort through automated data pipelines
-- 40% improvement in rollover risk prediction accuracy
-- 95% tunnel detection accuracy for automated safety systems
-
-🏆 **Innovation Projects:**
-- **Computer Vision Tunnel Detection** - Patent Filed
-- **Predictive Vehicle Dynamics** - Patent Filed  
-- **ML-Based Intersection Safety** - 92% detection accuracy
-
-<br>
-
-### 🏭 **Intern** | Volvo Group Trucks Technology
-*Jul 2022 - Jul 2023 | Bengaluru, India*
-
-**🔬 Research Impact:**
-
-- 🎥 **Markerless Motion Capture**: Developed CV-based ergonomic assessment for assembly workers
-- 📐 **Automated Risk Analysis**: RULA/REBA score calculation for workplace safety compliance
-- 🔄 **Digital Twin Mapping**: Real-time posture monitoring with 3D visualization
-
 
 <br>
 
