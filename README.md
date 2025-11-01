@@ -5,11 +5,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=Data+Analyst;Statistical+Modeling;ADAS+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&lines=Data+Analytics;Statistical+Modeling;ADAS+Analytics" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏢_Current role-Data_Analyst-2196F3?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🏢_Current role-Software Validation Engineer-2196F3?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/🎯_Specialization-Automotive_ADAS-4CAF50?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/📚_Advancing-Data_Science-FF6B35?style=for-the-badge&labelColor=0D1117" />
 </p>
